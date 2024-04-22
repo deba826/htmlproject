@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+.light{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.red:hover{
+    background-color: red;
+
+}
+.orange:hover{
+    background-color: orange
+
+}
+.green:hover{
+    background-color: green;
+
+}
+.stand
+{
+    background-color: black;
+    height: 50vh;
+    width:25px ;
+    margin-left: 35px;
+}
